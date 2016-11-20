@@ -1,0 +1,35 @@
+Country Name,Country Code,EU status,%GDP spend on R&D (2014 or latest avail.),Number of full time researchers (thousands in 2014),Researchers in R&D per million people (in 2014 or latest avail.),Number of ERC grants awarded in 2015 excl. PoC,Number of ERC grants evaluated in 2015 excl. PoC,Success rate excl. PoC
+Austria,AT,EU,2.986,41.0,4814.5,30,144,0.208
+Belgium,BE,EU,2.465,46.9,4175.9,30,230,0.130
+Bulgaria,BG,EU,0.795,13.2,1833.1,0,11,0.000
+Croatia,HR,EU,0.790,6.1,1437.3,0,11,0.000
+Cyprus,CY,EU,0.472,0.9,749.8,0,16,0.000
+Czech Republic,CZ,EU,1.997,36.0,3418.5,7,59,0.119
+Denmark,DK,EU,3.085,40.6,7198.2,20,185,0.108
+Estonia,EE,EU,1.436,4.3,3284.4,0,12,0.000
+Finland,FI,EU,3.174,38.3,6985.9,18,200,0.090
+France,FR,EU,2.256,269.4,4201.1,99,643,0.154
+Germany,DE,EU,2.869,353.3,4380.6,139,774,0.180
+Greece,GR,EU,0.838,29.9,2715.9,3,95,0.032
+Hungary,HU,EU,1.371,26.2,2650.6,4,47,0.085
+Iceland,IS,EFTA,1.891,2.5,5993.0,0,4,0.000
+Ireland,IE,EU,1.519,17.4,3732.1,9,118,0.076
+Israel,IL,no,4.109,65.3,8255.4,55,224,0.246
+Italy,IT,EU,1.287,120.0,2006.7,53,807,0.066
+Lithuania,LT,EU,1.015,8.6,2961.5,0,12,0.000
+Luxembourg,LU,EU,1.256,2.5,4577.3,2,9,0.222
+Malta,MT,EU,0.848,0.9,2133.0,1,3,0.333
+Netherlands,NL,EU,1.973,75.5,4478.1,85,424,0.200
+Norway,NO,EFTA,1.710,29.2,5679.3,5,110,0.045
+Poland,PL,EU,0.941,78.6,2035.8,5,114,0.044
+Portugal,PT,EU,1.285,38.5,3699.9,9,116,0.078
+Romania,RO,EU,0.383,18.1,921.5,1,47,0.021
+Serbia,RS,cand,0.776,13.0,1464.8,0,11,0.000
+Slovakia,SK,EU,0.886,14.7,2718.5,0,8,0.000
+Slovenia,SI,EU,2.386,8.6,4149.9,1,17,0.059
+Spain,ES,EU,1.231,122.2,2642.4,43,522,0.082
+Sweden,SE,EU,3.161,66.6,6868.1,32,226,0.142
+Switzerland,CH,EFTA,2.967,36.0,4481.1,72,308,0.234
+Turkey,TR,cand,1.007,89.7,1156.5,6,60,0.100
+Ukraine,UA,no,0.659,46.6,1026.4,0,17,0.000
+United Kingdom,UK,EU,1.701,273.6,4252.4,203,1218,0.167
