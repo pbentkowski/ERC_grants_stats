@@ -1,6 +1,8 @@
 Some basic stats regarding macroeconomic data and success rate in ERC (2015) grant application:
 ----------------------------------------------------------------------------------------------
 
+The main set of data is in the file GDB_for_RD.ods (or .xlsx)
+
 Created for grass-root non-profit organisation "Citizens of Academia" (Polish: "Obywatele Nauki")
 
 http://obywatelenauki.pl/about-us/
