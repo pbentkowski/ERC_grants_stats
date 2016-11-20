@@ -1,4 +1,4 @@
-Some basic stats regarding macroeconomic data and success rate in ERC (2015) grant application:
+Some basic stats regarding macroeconomic data and success rate in ERC (2015) grants applications across countries
 ----------------------------------------------------------------------------------------------
 
 The main set of data is in the file GDB_for_RD.ods (or .xlsx)
