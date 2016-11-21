@@ -36,3 +36,7 @@ https://erc.europa.eu/projects-and-results/statistics
 Country codes used by EuroStat:
 
 http://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes
+
+Blog post based on this data:
+----------------------------
+http://obywatelenauki.pl/2016/11/granty-erc-sprawa-polska-uczony-glodny-jest-mniej-plodny/
