@@ -8,7 +8,7 @@ Created for grass-root non-profit organisation "Citizens of Academia"
 
 http://obywatelenauki.pl/about-us/
 
-Licensed under CC BY 4.0 ; attribute to "Citizens of Academia social movement"
+Licensed under CC BY 3.0 PL; attribute to "Citizens of Academia social movement"
 or "ruch społeczny Obywatele Nauki"
 
 Please, mind the licences of the original data creators: The World Bank, ERC and EuroStat
